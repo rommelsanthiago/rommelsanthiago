@@ -23,7 +23,7 @@
 <p align="center">
 <a href="https://codepen.io/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rommelsanthiago" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rommelsanthiago" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rommelsanthiago" height="20" width="20" /></a>
 </p>
 
 <!---
