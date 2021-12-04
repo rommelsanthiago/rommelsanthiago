@@ -1,44 +1,37 @@
 
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rommel Santhiago</h1>
-<h3 align="center">I'm a beginner in programming, eager to learn increasingly</h3>
+<h1 align="center">Ola amigos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rommel Santhiago</h1>
+<h3 align="center">Tecnico de informatica e programador iniciante</h3>
 
-- 🔭 I’m currently working on [UNIFAP - CENTRO UNIVERSITARIO PARAISO](https://www.linkedin.com/school/unifapce/)
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/61671015/144712720-217a3bb8-764c-47ec-8ccc-f70e8f0cfd55.png) Atualmente trabalho na [UNIFAP - CENTRO UNIVERSITARIO PARAISO](https://www.linkedin.com/school/unifapce/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
+![image](https://user-images.githubusercontent.com/61671015/144712901-d6c24dce-44e9-461c-990f-1bec7a2b1e39.png) Estudei bastante **JavaScript, HTML, CSS**
+</div>
 
-- 📫 How to reach me **rommel.santhiago@gmail.com**
-
-- ⚡ Fun fact **Oneye 😜**
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rommelsanthiago&show_icons=true" alt="rommelsanthiago"/> 
-</p>
-
+<div>
+  <h1 align="center">LINGUAGENS QUE ESTOU ESTUDANDO</h1>
 <p align="center">
-<a href="https://codepen.io/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rommelsanthiago" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rommelsanthiago" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/14057059/rommel-santhiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rommelsanthiago" height="20" width="20" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/></p><p align="center">
 </p>
+</div>
 
-<!---
-rommelsanthiago/rommelsanthiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<div align="center">
+  <a href="https://github.com/rommelsanthiago">
+  <img src="https://github-readme-stats.vercel.app/api?username=rommelsanthiago&show_icons=true&theme=highcontrast" alt="rommelsanthiago"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelsanthiago&layout=compact&langs_count=10&theme=highcontrast"/> -->
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<div>
+<h1 align="center">REDES SOCIAIS</h1>  
+<p align="center">
+<a href="https://codepen.io/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rommelsanthiago" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rommelsanthiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rommelsanthiago" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/14057059/rommel-santhiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rommelsanthiago" height="40" width="40" /></a>
+</p>
+</div>
