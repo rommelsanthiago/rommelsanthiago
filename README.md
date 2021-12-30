@@ -2,13 +2,17 @@
 <h1 align="center">Ola amigos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rommel Santhiago</h1>
 <h3 align="center">Tecnico de informatica e programador iniciante</h3>
 
+* * * <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="left" margin="0" alt="Computer">
+
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/61671015/144712720-217a3bb8-764c-47ec-8ccc-f70e8f0cfd55.png) Atualmente trabalho na [UNIFAP - CENTRO UNIVERSITARIO PARAISO](https://www.linkedin.com/school/unifapce/)
 
 ![image](https://user-images.githubusercontent.com/61671015/144712901-d6c24dce-44e9-461c-990f-1bec7a2b1e39.png) Estudei bastante **JavaScript, HTML, CSS**
+  
+Estou cursando Dev web fullstack na ![32x32](https://user-images.githubusercontent.com/61671015/147751898-47929365-3a8f-447c-81cf-08d59a316b08.png) Labenu
 </div>
-
+<br><br>
 <div>
   <h1 align="center">LINGUAGENS QUE ESTOU ESTUDANDO</h1>
 <p align="center">
