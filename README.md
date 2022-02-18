@@ -27,8 +27,8 @@ Estou cursando Dev web fullstack na ![32x32](https://user-images.githubuserconte
 
 <div align="center">
   <a href="https://github.com/rommelsanthiago">
-  <img src="https://github-readme-stats.vercel.app/api?username=rommelsanthiago&show_icons=true&theme=highcontrast" alt="rommelsanthiago"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelsanthiago&layout=compact&langs_count=10&theme=highcontrast"/> -->
+  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rommelsanthiago&show_icons=true&theme=highcontrast" alt="rommelsanthiago"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rommelsanthiago&layout=compact&theme=highcontrast" alt="rommelsanthiago's most languages"/>
 </div>
 
 <div>
