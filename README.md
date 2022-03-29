@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/61671015/144712720-217a3bb8-764c-47ec-8ccc-f70e8f0cfd55.png) Atualmente trabalho não estou trabalhando, focado nos estudos.
+![image](https://user-images.githubusercontent.com/61671015/144712720-217a3bb8-764c-47ec-8ccc-f70e8f0cfd55.png) Atualmente não estou trabalhando, focado nos estudos.
 
 ![image](https://user-images.githubusercontent.com/61671015/144712901-d6c24dce-44e9-461c-990f-1bec7a2b1e39.png) Estudei bastante **JavaScript, HTML, CSS**
   
