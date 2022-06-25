@@ -1,5 +1,5 @@
 
-<h1 align="center">Ola amigos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Rommel Santhiago</h1>
+<h1 align="center">Ola amigos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> eu sou o Rommel Santhiago</h1>
 <h3 align="center">Tecnico de informatica em transição para a área da programação</h3>
 
 * * * <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="left" margin="0" alt="Computer">
