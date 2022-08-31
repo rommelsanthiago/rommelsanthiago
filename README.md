@@ -1,5 +1,5 @@
+### <div align="center">[![Typing GIF](https://www.imagensanimadas.com/data/media/2148/emoticon-e-smiley-cafe-imagem-animada-0029.gif)](https://www.imagensanimadas.com/data/media/2148/emoticon-e-smiley-cafe-imagem-animada-0029.gif)<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ola+amigos,+me+chamo+Rommel+Santhiago)](https://git.io/typing-svg) </h1></div>
 
-<h1 align="center">Ola amigos <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> eu sou o Rommel Santhiago</h1>
 <h3 align="center">Tecnico de informatica em transição para a área da programação</h3>
 
 * * * <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="left" margin="0" alt="Computer">
