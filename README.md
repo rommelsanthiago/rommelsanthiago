@@ -1,16 +1,16 @@
 ### <div align="center">[![Typing GIF](https://www.imagensanimadas.com/data/media/2148/emoticon-e-smiley-cafe-imagem-animada-0029.gif)](https://www.imagensanimadas.com/data/media/2148/emoticon-e-smiley-cafe-imagem-animada-0029.gif)<h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Ola+amigos,+me+chamo+Rommel+Santhiago)](https://git.io/typing-svg) </h1></div>
 
-<h3 align="center">Tecnico de informatica em transição para a área da programação</h3>
+<h3 align="center">SOU DESENVOLVEDOR WEB</h3>
 
 * * * <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="20px" max-width="300px" width="250px" align="left" margin="0" alt="Computer">
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/61671015/144712720-217a3bb8-764c-47ec-8ccc-f70e8f0cfd55.png) Atualmente não estou trabalhando, focado nos estudos.
+![image](https://user-images.githubusercontent.com/61671015/144712720-217a3bb8-764c-47ec-8ccc-f70e8f0cfd55.png) Focado nos estudos e aberto a oportunidades
 
-![image](https://user-images.githubusercontent.com/61671015/144712901-d6c24dce-44e9-461c-990f-1bec7a2b1e39.png) Estudei bastante **JavaScript, HTML, CSS**
+![image](https://user-images.githubusercontent.com/61671015/144712901-d6c24dce-44e9-461c-990f-1bec7a2b1e39.png) Estudo bastante **JavaScript, HTML, CSS**, os frameworks e bibiotecas do JavaScript além do seu superset TypeScript
   
-Estou cursando Dev web fullstack na ![32x32](https://user-images.githubusercontent.com/61671015/147751898-47929365-3a8f-447c-81cf-08d59a316b08.png) Labenu
+Cursei Desenvolvimento web fullstack na ![32x32](https://user-images.githubusercontent.com/61671015/147751898-47929365-3a8f-447c-81cf-08d59a316b08.png) Labenu entre Out/2021 e Nov/2022 além de outros bootcamps que se encontram em meus repositorios.
 </div>
 <br><br>
 <div>
