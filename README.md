@@ -46,4 +46,4 @@ Cursei Desenvolvimento web fullstack na ![32x32](https://user-images.githubuserc
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="" />
   </div>
   
-  ## <div align="center"><h3>Visitantes</h3> <p><img alingn="center"  src="https://profile-counter.glitch.me/rommelsanthiago/count.svg" /></p> </div>
+<!--   ## <div align="center"><h3>Visitantes</h3> <p><img alingn="center"  src="https://profile-counter.glitch.me/rommelsanthiago/count.svg" /></p> </div> -->
